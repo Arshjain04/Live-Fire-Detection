@@ -1,0 +1,4 @@
+<Response>
+<Say voice="woman">A fire has initiated in the building.</Say>
+<!-- <Play>"fire_alarm.mp3"</Play> -->
+</Response>
